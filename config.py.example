@@ -1,0 +1,12 @@
+# How long to sleep.
+delay = 30
+
+# ESSID of the wireless network to connect to.
+network = "getyourownwifi"
+
+# Password for the network.
+password = "baaaaaarf."
+
+# URL to hit.
+target = "http://www.example.com/robots.txt"
+
